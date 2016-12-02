@@ -6,4 +6,4 @@ As Kanye West said:
 
 > We're living the future so
 > the present is our past.
-[link to Google!](/dokumentointi/kaytto-ohje.md)
+[link to manual!](/dokumentointi/kaytto-ohje.md)
