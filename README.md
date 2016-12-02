@@ -8,3 +8,4 @@ As Kanye West said:
 > We're living the future so
 > the present is our past.
 [link to manual!](/dokumentointi/kaytto-ohje.md)
+[maarittelydokumentti](/dokumentointi/maarittelydokumentti.md)
